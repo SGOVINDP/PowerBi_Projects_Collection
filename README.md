@@ -1,5 +1,9 @@
 # Power BI Projects
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/SGOVINDP/PowerBi_Projects_Collection/blob/main/LICENSE)
+
+
 Welcome to my Power BI projects repository! This repository contains various Power BI projects that I have worked on. Each project showcases different data visualization techniques and insights derived from various datasets.
 
 ## Introduction
